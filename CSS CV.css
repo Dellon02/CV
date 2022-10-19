@@ -66,17 +66,8 @@ article{
     margin-top: -4em;
 }
 
-.sect1 h2{
+.sectionX h2{
     padding-bottom: 1em;
-}
-
-.sect2 h2{
-    padding-bottom: 1em;
-}
-
-.sect3 h2{
-    padding-bottom: 1em;
-    text-align: center;
 }
     
 #section2{
@@ -94,7 +85,7 @@ article{
     text-align: center;
 
 }
-.sect2 ul li{
+.sectionX ul li{
     padding-bottom: 1em;
 }
 #section3{
@@ -106,29 +97,13 @@ article{
 #section3 h5{
     margin-bottom: 1em;
 }
-.sect1:hover {
+.sectionX:hover {
     background-color: rgb(235, 235, 235);
 }
 
-.sect2:hover {
-    background-color: rgb(235, 235, 235);
-}
-
-.sect3:hover {
-    background-color: rgb(235, 235, 235);
-}
-.sect1 {
+.sectionX {
         width: 30em;
         height: 25em;
-}
-.sect2 {
-    width: 30em;
-    height: 25em;
-}
-
-.sect3 {
-    width: 30em;
-    height: 25em;
 }
 
 ul{
