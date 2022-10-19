@@ -9,8 +9,6 @@
 }
 
 #adresse{
-    margin-left:1em;
-    margin-top: 0.25em;
     width: 91%;
 }
 
@@ -53,7 +51,6 @@ article{
 
 #section1{
     padding-top: 1.0em;
-    padding-left: 3em;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -68,6 +65,7 @@ article{
 
 #section1 h5{
     margin-bottom: 2em;
+    padding-top: -2em;
 }
 
 .sectionX h2{
@@ -77,7 +75,7 @@ article{
 #section2{
     
     overflow-y: scroll;
-    scrollbar-color: rgb(225, 224, 224) rgb(236, 235, 235);
+    scrollbar-color: rgb(202, 196, 255) rgb(236, 235, 235);
     scrollbar-width: thin;
     font-size: 1em;
     padding-top: 1em;
