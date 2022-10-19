@@ -131,6 +131,7 @@ ul{
 }
 
 .sectionX:hover {
+    border-radius: 40% 00% 0% 3%;
     background-color: rgb(235, 235, 235);
 }
 
