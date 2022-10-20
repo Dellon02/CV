@@ -16,7 +16,6 @@
     width: 10em;
     font-size: 3em;
     padding-top: 1em;
-
 }
 
 div.photo{
@@ -60,6 +59,7 @@ article{
     align-items: center;
     text-align: center;
 }
+
 #section1 h3{
     margin-top: 0.25em;
 }
@@ -73,8 +73,7 @@ article{
     padding-bottom: 1em;
 }
     
-#section2{
-    
+#section2{    
     overflow-y: scroll;
     scrollbar-color: rgb(202, 196, 255) rgb(236, 235, 235);
     scrollbar-width: thin;
@@ -86,20 +85,26 @@ article{
     justify-content: space-between;
     align-items: center;
     text-align: center;
-
 }
 .sectionX ul li{
-    padding-bottom: 1em;
+    padding-top: 0.45em;
 }
+
+ul{
+    list-style: none;
+    width: fit-content;
+}
+
 #section3{
         padding-top: 1em;
-        padding-left: 1em;
         text-align: center;
 
 }
-#section3 h5{
-    margin-bottom: 2em;
+
+#section3 h3{
+    margin-top: 0.45em;
 }
+
 .sectionX:hover {
     background-color: rgb(235, 235, 235);
 }
@@ -108,12 +113,6 @@ article{
         width: 30em;
         height: 25em;
 }
-
-ul{
-    list-style: none;
-    width: fit-content;
-}
-
 
 #section4:hover {
     background-color: rgb(235, 235, 235);
@@ -125,7 +124,6 @@ ul{
 }
 
 #section4 h3 {
-    
     padding-bottom: 0.5em;
 } 
 #section4{
