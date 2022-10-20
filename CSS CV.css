@@ -120,7 +120,7 @@ ul{
 }
 
 #section4 h2 {
-    padding-top: 1em;
+    padding-top: 0.5em;
     margin-bottom: 1em;
 }
 
@@ -129,11 +129,12 @@ ul{
     padding-bottom: 0.5em;
 } 
 #section4{
+    border: 2mm ridge rgba(179, 179, 179, 0.6);
     width: 30%;margin: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-radius: 1em; /* les coins seront tous arrondis 
+    border-radius: 1em; 
 }
 
 #section4 article{
