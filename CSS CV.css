@@ -102,11 +102,13 @@ ul{
 #section3{
         padding-top: 1em;
         text-align: center;
-
 }
 
 #section3 h3{
     margin-top: 0.45em;
+}
+#section3 h5{
+    padding-bottom: 2em;
 }
 
 .sectionX:hover {
