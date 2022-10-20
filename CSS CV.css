@@ -86,6 +86,10 @@ article{
     align-items: center;
     text-align: center;
 }
+#section2 article{
+    margin-top: 2em;
+}
+
 .sectionX ul li{
     padding-top: 0.45em;
 }
