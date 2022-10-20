@@ -135,7 +135,6 @@ ul{
 #section4{
     border: 2mm ridge rgba(179, 179, 179, 0.6);
     background: rgba(245, 245, 245, 0.874);
-
     width: 30%;margin: auto;
     display: flex;
     flex-direction: column;
