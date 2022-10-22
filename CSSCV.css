@@ -32,8 +32,6 @@
 
 }
 
-
-
 div.photo{
     width: 9%;
 }
@@ -49,7 +47,7 @@ body {
 
 .corpsDuCv section {    
     background: rgba(245, 245, 245, 0.874);
-    border-radius: 1em; /* les coins seront tous arrondis */
+    border-radius: 1em; 
     width: 31%;
     transition-duration: 0.25s;
 }
@@ -60,13 +58,8 @@ body {
     padding-top: 1.0em;
 }
 
-article{
-    padding-left: 0;
-}
-
 #section1{
     border: 2mm ridge rgba(179, 179, 179, 0.6);
-
     overflow-y: scroll;
     scrollbar-color: rgb(202, 196, 255) rgb(75, 107, 175);
     scrollbar-width: thin;
@@ -94,7 +87,6 @@ article{
     
 #section2{    
     border: 2mm ridge rgba(179, 179, 179, 0.6);
-
     overflow-y: scroll;
     scrollbar-color: rgb(202, 196, 255) rgb(75, 107, 175);
     scrollbar-width: thin;
@@ -124,8 +116,8 @@ ul{
 #section3{
     border: 2mm ridge rgba(179, 179, 179, 0.6);
     border-radius: 25% 0%;
-        padding-top: 1em;
-        text-align: center;
+    padding-top: 1em;
+    text-align: center;
 }
 
 #section3 h3{
