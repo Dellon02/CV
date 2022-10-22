@@ -14,10 +14,6 @@
 .header section{
     text-align: center;
 }
-/* .header #devCob{
-    border: 2mm ridge rgba(31, 75, 198, 0.765);
-    border-radius: 100px 100px / 120px;
-} */
 
 .header.photo {
     border-radius: 10px 100px / 120px;
@@ -32,7 +28,11 @@
     width: 10em;
     font-size: 3em;
     padding-top: 1em;
+    text-decoration: underline;
+
 }
+
+
 
 div.photo{
     width: 9%;
