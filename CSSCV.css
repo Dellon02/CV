@@ -115,7 +115,8 @@ ul{
 }
 
 #section3{
-    border: 2mm ridge rgba(179, 179, 179, 0.6);
+    border: 2mm ridge rgba(75, 107, 175, 0.6);
+
     border-radius: 40% 3%;
     padding-top: 1em;
     text-align: center;
