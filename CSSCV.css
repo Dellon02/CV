@@ -7,8 +7,8 @@
     display: flex;
     justify-content: space-between;
 }
-.header section h2{
-    padding-top: 0.4em;
+.header section h3:hover{
+    color: rgb(75, 107, 175);
 }
 
 .header section{
@@ -38,7 +38,7 @@ div.photo{
 }
 
 #mail{
-    color: black;
+    color: rgb(75, 107, 175);
     text-decoration: none;
 }
 
@@ -116,14 +116,13 @@ ul{
 
 #section3{
     border: 2mm ridge rgba(179, 179, 179, 0.6);
-    border-radius: 40% 0%;
+    border-radius: 40% 3%;
     padding-top: 1em;
     text-align: center;
 }
 
 #section3 h3{
     margin-top: 0.45em;
-
 }
 
 #section3 h5{
