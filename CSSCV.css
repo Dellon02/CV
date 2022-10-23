@@ -116,7 +116,6 @@ ul{
 
 #section3{
     border: 2mm ridge rgba(75, 107, 175, 0.6);
-
     border-radius: 40% 3%;
     padding-top: 1em;
     text-align: center;
@@ -133,6 +132,7 @@ ul{
 .sectionX:hover {
     border-radius: 40% 00% 0% 3%;
     background-color: rgb(235, 235, 235);
+    border: 2mm ridge rgba(75, 107, 175, 0.6);
 }
 
 .sectionX {
