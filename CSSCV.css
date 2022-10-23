@@ -114,8 +114,8 @@ ul{
 }
 
 #section3{
-    border: 2mm ridge rgba(179, 179, 179, 0.6);
-    border-radius: 25% 0%;
+    border: 2mm ridge rgba(75, 107, 175, 0.6);
+    border-radius: 40% 0%;
     padding-top: 1em;
     text-align: center;
 }
@@ -131,6 +131,7 @@ ul{
 
 .sectionX:hover {
     background-color: rgb(235, 235, 235);
+    border-radius: 40% 0%
 }
 
 .sectionX {
@@ -153,7 +154,7 @@ ul{
     padding-bottom: 0.30em;
 } 
 #section4{
-    border: 2mm ridge rgba(179, 179, 179, 0.6);
+    border: 2mm ridge rgba(75, 107, 175, 0.6);
     background: rgba(245, 245, 245, 0.874);
     width: 50%;margin: auto;
     flex-direction: column;
