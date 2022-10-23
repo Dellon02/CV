@@ -132,7 +132,6 @@ ul{
 .sectionX:hover {
     border-radius: 40% 3% 3% 3%;
     background-color: rgb(235, 235, 235);
-    border: 2mm ridge rgba(75, 107, 175, 0.6);
 }
 
 .sectionX {
@@ -142,7 +141,6 @@ ul{
 
 #section4:hover {
     background-color: rgb(235, 235, 235);
-    
 }
 
 #section4 h2 {
@@ -154,6 +152,7 @@ ul{
 #section4 h3 {
     padding-bottom: 0.30em;
 } 
+
 #section4{
     border: 2mm ridge rgba(75, 107, 175, 0.6);
     background: rgba(245, 245, 245, 0.874);
