@@ -13,10 +13,7 @@
 
 .header section{
     text-align: center;
-}
-
-.header.photo {
-    border-radius: 10px 100px / 120px;   
+    margin-top: 1em;
 }
 
 .header section article{
