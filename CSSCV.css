@@ -30,7 +30,6 @@
     padding-top: 1em;
     text-decoration: underline;
     color: rgb(75, 107, 175);
-
 }
 
 div.photo{
@@ -139,21 +138,21 @@ ul{
         height: 25em;
 }
 
-#section4:hover {
+.footer #section4:hover {
     background-color: rgb(235, 235, 235);
 }
 
-#section4 h2 {
+.footer #section4 h2 {
     padding-top: 0.5em;
     margin-bottom: 1em;
     text-decoration: underline;
 }
 
-#section4 h3 {
+.footer#section4 h3 {
     padding-bottom: 0.30em;
 } 
 
-#section4{
+.footer #section4{
     border: 2mm ridge rgba(75, 107, 175, 0.6);
     background: rgba(245, 245, 245, 0.874);
     width: 50%;margin: auto;
@@ -164,7 +163,7 @@ ul{
     text-align: center;
 }
 
-#section4 article{
+.footer #section4 article{
     display: flex;
     justify-content: space-around;
     margin-bottom: 1em;
