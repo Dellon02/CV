@@ -7,9 +7,6 @@
     display: flex;
     justify-content: space-between;
 }
-.header section h3:hover{
-    color: rgb(75, 107, 175);
-}
 
 .header section{
     text-align: center;
@@ -18,6 +15,10 @@
 
 .header section article{
     margin-top: 1em;
+}
+
+.header section h3:hover{
+    color: rgb(75, 107, 175);
 }
 
 #titreCv{    
@@ -75,11 +76,6 @@ body {
     margin-bottom: 2em;
     padding-top: -2em;
 }
-
-.sectionX h2{
-    padding-bottom: 1em;
-    text-decoration: underline;
-}
     
 #section2{    
     border: 2mm ridge rgba(179, 179, 179, 0.6);
@@ -98,15 +94,6 @@ body {
 
 #section2 article{
     margin-top: 2em;
-}
-
-.sectionX ul li{
-    padding-top: 0.75em;
-}
-
-ul{
-    list-style: none;
-    width: fit-content;
 }
 
 #section3{
@@ -132,6 +119,20 @@ ul{
 .sectionX {
         width: 30em;
         height: 25em;
+}
+
+.sectionX h2{
+    padding-bottom: 1em;
+    text-decoration: underline;
+}
+
+.sectionX ul li{
+    padding-top: 0.75em;
+}
+
+.sectionX ul{
+    list-style: none;
+    width: fit-content;
 }
 
 .footer #section4:hover {
