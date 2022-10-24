@@ -55,7 +55,7 @@ body {
     padding-top: 1.0em;
 }
 
-#section1{
+#section3{
     border: 2mm ridge rgba(179, 179, 179, 0.6);
     overflow-y: scroll;
     scrollbar-color: rgb(202, 196, 255) rgb(75, 107, 175);
@@ -68,16 +68,16 @@ body {
     text-align: center;
 }
 
-#section1 h3{
+#section3 h3{
     margin-top: 0.25em;
 }
 
-#section1 h5{
+#section3 h5{
     margin-bottom: 2em;
     padding-top: -2em;
 }
     
-#section2{    
+#section1{    
     border: 2mm ridge rgba(179, 179, 179, 0.6);
     overflow-y: scroll;
     scrollbar-color: rgb(202, 196, 255) rgb(75, 107, 175);
@@ -92,22 +92,22 @@ body {
     text-align: center;
 }
 
-#section2 article{
+#section1 article{
     margin-top: 2em;
 }
 
-#section3{
+#section2{
     border: 2mm ridge rgba(75, 107, 175, 0.6);
     border-radius: 40% 3%;
     padding-top: 1em;
     text-align: center;
 }
 
-#section3 h3{
+#section2 h3{
     margin-top: 0.45em;
 }
 
-#section3 h5{
+#section2 h5{
     padding-bottom: 1.5em;
 }
 
