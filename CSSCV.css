@@ -16,8 +16,7 @@
 }
 
 .header.photo {
-    border-radius: 10px 100px / 120px;
-    
+    border-radius: 10px 100px / 120px;   
 }
 
 .header section article{
@@ -148,7 +147,7 @@ ul{
     text-decoration: underline;
 }
 
-.footer#section4 h3 {
+.footer #section4 h3 {
     padding-bottom: 0.30em;
 } 
 
