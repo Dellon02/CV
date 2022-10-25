@@ -55,7 +55,6 @@ body {
 }
 
 #section3{
-    border: 2mm ridge rgba(75, 107, 175, 0.6);
     border: 2mm ridge rgba(179, 179, 179, 0.6);
     overflow-y: scroll;
     scrollbar-color: rgb(202, 196, 255) rgb(75, 107, 175);
