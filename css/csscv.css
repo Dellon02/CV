@@ -54,7 +54,7 @@ body {
     padding-top: 1.0em;
 }
 
-#section1{    
+#competences{    
     border: 2mm ridge rgba(179, 179, 179, 0.6);
     overflow-y: scroll;
     scrollbar-color: rgb(202, 196, 255) rgb(75, 107, 175);
@@ -69,27 +69,27 @@ body {
     text-align: center;
 }
 
-#section1 article{
+#competences article{
     margin-top: 2em;
 }
 
-#section2{
+#formations{
     border: 2mm ridge rgba(75, 107, 175, 0.6);
     border-radius: 40% 3%;
     padding-top: 1em;
     text-align: center;
 }
 
-#section2 h3{
+#formations h3{
     margin-top: 0.45em;
 }
 
-#section2 h5{
+#formations h5{
     padding-bottom: 1.5em;
 }
 
 
-#section3{
+#experiences{
     border: 2mm ridge rgba(179, 179, 179, 0.6);
     overflow-y: scroll;
     scrollbar-color: rgb(202, 196, 255) rgb(75, 107, 175);
@@ -102,11 +102,11 @@ body {
     text-align: center;
 }
 
-#section3 h3{
+#experiences h3{
     margin-top: 0.25em;
 }
 
-#section3 h5{
+#experiences h5{
     margin-bottom: 2em;
     padding-top: -2em;
 }
@@ -135,21 +135,21 @@ body {
     width: fit-content;
 }
 
-.footer #section4:hover {
+.footer #hobby:hover {
     background-color: rgb(235, 235, 235);
 }
 
-.footer #section4 h2 {
+.footer #hobby h2 {
     padding-top: 0.5em;
     margin-bottom: 1em;
     text-decoration: underline;
 }
 
-.footer #section4 h3 {
+.footer #hobby h3 {
     padding-bottom: 0.30em;
 } 
 
-.footer #section4{
+.footer #hobby{
     border: 2mm ridge rgba(75, 107, 175, 0.6);
     background: rgba(245, 245, 245, 0.874);
     width: 50%;margin: auto;
@@ -160,7 +160,7 @@ body {
     text-align: center;
 }
 
-.footer #section4 article{
+.footer #hobby article{
     display: flex;
     justify-content: space-around;
     margin-bottom: 1em;
