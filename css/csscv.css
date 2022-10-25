@@ -10,6 +10,7 @@
 .header .adress{
     text-align: center;
     margin-top: 1em;
+    margin-left: 3em;
 }
 
 .header .adress .contact{
@@ -44,7 +45,7 @@ body {
 .corpsDuCv section {    
     background: rgba(245, 245, 245, 0.874);
     border-radius: 1em; 
-    width: 31%;
+    width: 32%;
     transition-duration: 0.25s;
 }
 
@@ -154,7 +155,9 @@ body {
 .footer .hobby{
     border: 2mm ridge rgba(75, 107, 175, 0.6);
     background: rgba(245, 245, 245, 0.874);
-    width: 50%;margin: auto;
+    width: 50%;
+    height: 10em;
+    margin: auto;
     flex-direction: column;
     align-items: center;
     border-radius: 1em; 
