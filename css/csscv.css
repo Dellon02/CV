@@ -135,21 +135,21 @@ body {
     width: fit-content;
 }
 
-.footer #hobby:hover {
+.footer .hobby:hover {
     background-color: rgb(235, 235, 235);
 }
 
-.footer #hobby h2 {
+.footer .hobby h2 {
     padding-top: 0.5em;
     margin-bottom: 1em;
     text-decoration: underline;
 }
 
-.footer #hobby h3 {
+.footer .hobby h3 {
     padding-bottom: 0.30em;
 } 
 
-.footer #hobby{
+.footer .hobby{
     border: 2mm ridge rgba(75, 107, 175, 0.6);
     background: rgba(245, 245, 245, 0.874);
     width: 50%;margin: auto;
@@ -160,7 +160,7 @@ body {
     text-align: center;
 }
 
-.footer #hobby article{
+.footer .hobby .activites{
     display: flex;
     justify-content: space-around;
     margin-bottom: 1em;
