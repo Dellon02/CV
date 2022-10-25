@@ -7,16 +7,16 @@
     justify-content: space-between;
 }
 
-.header section{
+.header .adress{
     text-align: center;
     margin-top: 1em;
 }
 
-.header section article{
+.header .adress article{
     margin-top: 1em;
 }
 
-.header section h3:hover{
+.header .adress h3:hover{
     color: rgb(75, 107, 175);
 }
 
