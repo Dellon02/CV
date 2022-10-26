@@ -153,7 +153,7 @@ body {
 .footer .hobby{
     border: 2mm ridge rgba(75, 107, 175, 0.6);
     background: rgba(245, 245, 245, 0.874);
-    width: 65%;
+    width: 50%;
     height: 9em;
     margin: auto;
     flex-direction: column;
