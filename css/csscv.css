@@ -58,9 +58,6 @@ body {
 
 #competences{    
     border: 2mm ridge rgba(179, 179, 179, 0.6);
-    overflow-y: scroll;
-    scrollbar-color: rgb(202, 196, 255) rgb(75, 107, 175);
-    scrollbar-width: thin;
     font-size: 1em;
     padding-top: 1em;
     display: flex;
@@ -80,6 +77,7 @@ body {
     padding-top: 1em;
     text-align: center;
     width: 31%;
+    height: 23.5em;
 }
 
 #formations h3{
@@ -93,9 +91,6 @@ body {
 
 #experiences{
     border: 2mm ridge rgba(179, 179, 179, 0.6);
-    overflow-y: scroll;
-    scrollbar-color: rgb(202, 196, 255) rgb(75, 107, 175);
-    scrollbar-width: thin;
     padding-top: 1.0em;
     display: flex;
     flex-direction: column;
@@ -119,7 +114,7 @@ body {
 }
 
 .sectionX {
-        height: 25em;
+        height: 33em;
 }
 
 .sectionX h2{
@@ -151,10 +146,10 @@ body {
 } 
 
 .footer .hobby{
-    border: 2mm ridge rgba(75, 107, 175, 0.6);
+    border: 2mm ridge rgba(179, 179, 179, 0.6);
     background: rgba(245, 245, 245, 0.874);
-    width: 50%;
-    height: 9em;
+    width: 31%;
+    height: 7em;
     margin: auto;
     flex-direction: column;
     align-items: center;
@@ -167,4 +162,7 @@ body {
     display: flex;
     justify-content: space-around;
     margin-bottom: 1em;
+}
+.footer{
+    margin-top: -150px;
 }
