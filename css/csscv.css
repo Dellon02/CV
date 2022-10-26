@@ -73,10 +73,20 @@ body {
     justify-content: space-between;
     text-align: center;
     align-items: center;
+    height: 38em;
 }
 
 #competences article{
     margin-top: 2em;
+}
+
+#competences ul li{
+    padding-top: 1.3em;
+}
+
+#competences ul{
+    list-style: none;
+    width: fit-content;
 }
 
 #formations{
@@ -106,6 +116,7 @@ body {
     justify-content: space-between;
     align-items: center;
     text-align: center;
+    height: 38em;
 }
 
 #experiences h3{
@@ -125,22 +136,9 @@ body {
     background-color: rgb(235, 235, 235);
 }
 
-.sectionX {
-        height: 38em;
-}
-
 .sectionX h2{
     padding-bottom: 1em;
     text-decoration: underline;
-}
-
-.sectionX ul li{
-    padding-top: 1.3em;
-}
-
-.sectionX ul{
-    list-style: none;
-    width: fit-content;
 }
 
 .footer .hobby:hover {
@@ -152,7 +150,6 @@ body {
     margin-bottom: 0.75em;
     text-decoration: underline;
 }
-
 
 .footer .hobby{
     border: 1mm ridge rgba(179, 179, 179, 0.6);
