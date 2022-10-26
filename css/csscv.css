@@ -116,7 +116,7 @@ body {
 }
 
 .sectionX:hover {
-    border-radius: 3% 30% 3% 3%;
+    border-radius: 3% 30% 3% 30%;
     background-color: rgb(235, 235, 235);
 }
 
