@@ -57,7 +57,6 @@ body {
 .corpsDuCv {
     display: flex;
     justify-content: space-around;
-    padding-top: 1.0em;
     font-size: 0.75em;
 }
 
@@ -168,7 +167,7 @@ body {
     flex-direction: column;
     align-items: center;
     border-radius: 1em; 
-    margin-top: 4.65em;
+    margin-top: 4.35em;
     text-align: center;
 }
 
