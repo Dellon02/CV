@@ -59,18 +59,22 @@ body {
     justify-content: space-around;
     padding-top: 1.0em;
     font-size: 0.75em;
-
 }
 
-#competences{    
+.corpsDuCv .icons{
+    text-align: right;
+}
+
+#competences{
     border: 1mm ridge rgba(179, 179, 179, 0.6);
     font-size: 1em;
     padding-top: 1em;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: center;
     text-align: center;
+    
+    align-items: center;
 }
 
 #competences article{
@@ -84,6 +88,7 @@ body {
     text-align: center;
     width: 31%;
     height: 21.5em;
+    margin-top: 2.5em;
 }
 
 #formations h3{
@@ -158,12 +163,12 @@ body {
     border: 1mm ridge rgba(179, 179, 179, 0.6);
     background: rgba(245, 245, 245, 0.874);
     width: 31%;
-    height: 9em;
+    height: 6.5em;
     margin: auto;
     flex-direction: column;
     align-items: center;
     border-radius: 1em; 
-    margin-top: 2em;
+    margin-top: 4.65em;
     text-align: center;
 }
 
