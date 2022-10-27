@@ -38,14 +38,10 @@ div.photo{
 #mail{
     color: rgb(75, 107, 175);
     text-decoration: none;
-
 }
 
 body {
     background-color: white;
-    background-image: url("/images/cobol.png");
-    background-repeat: no-repeat;
-    background-position: center center;
 }
 
 .corpsDuCv section {    
@@ -99,6 +95,10 @@ body {
     width: 31%;
     height: 29em;
     margin-top: 0em;
+    background-image: url("/images/cobol2.png");
+    background-repeat: no-repeat;
+    background-position: 24em -1em;
+    background-size: 30%;
 }
 
 #formations h3{
