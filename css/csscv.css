@@ -11,7 +11,7 @@
 
 .header .adress{
     text-align: center;
-    margin-top: 2em;
+    margin-bottom: 0.5em;
     margin-left: 1.5em;
 }
 
@@ -26,7 +26,7 @@
 #titreCv{    
     width: 10em;
     font-size: 3em;
-    margin-top: 1.5em;
+    margin-top: 1em;
     text-decoration: underline;
     color : rgba(62, 62, 62, 0.6);
     
