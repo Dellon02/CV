@@ -42,8 +42,9 @@ div.photo{
 }
 
 body {
+    background-color: white;
     background-image : url(/images/Cobol.png);
-    background-position : center center; 
+    background-position : 45em center; 
     background-repeat : no-repeat;
     background-attachment : fixed;   
 }
