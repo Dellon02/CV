@@ -42,7 +42,10 @@ div.photo{
 }
 
 body {
-    background: rgba(255, 255, 255, 0.915);
+    background: transparent;
+    background-image : url(/images/Logo\ Cobol.png);
+    background-position : center center; 
+    background-repeat : no-repeat;
 }
 
 .corpsDuCv section {    
