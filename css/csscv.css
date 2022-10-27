@@ -43,6 +43,9 @@ div.photo{
 
 body {
     background-color: white;
+    background-image: url("/images/cobol.png");
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 .corpsDuCv section {    
