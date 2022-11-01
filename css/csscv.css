@@ -71,7 +71,7 @@ body {
     justify-content: space-between;
     text-align: center;
     align-items: center;
-    height: 38em;
+    height: 49em;
 }
 
 #competences article{
@@ -79,12 +79,22 @@ body {
 }
 
 #competences ul li{
-    padding-top: 1.3em;
+    padding-top: 2em;
 }
 
 #competences ul{
     list-style: none;
     width: fit-content;
+}
+
+#competences h2{
+    padding-bottom: 1em;
+    text-decoration: underline;
+}
+
+#competences:hover {
+    border-radius: 3% 30% 3% 30%;
+    background-color: rgb(235, 235, 235);
 }
 
 #formations{
@@ -93,22 +103,26 @@ body {
     padding-top: 1em;
     text-align: center;
     width: 31%;
-    height: 29em;
-    margin-top: 0em;
-    background-image: url("/images/cobol2.png");
-    background-repeat: no-repeat;
-    background-position: 24em -1em;
-    background-size: 30%;
+    height: 40em;
+    font-size: 1em;
 }
 
 #formations h3{
-    margin-top: 1.5em;
+    margin-top: 3em;
 }
 
 #formations h5{
     padding-bottom: 1em;
 }
 
+#formations h2{
+    padding-bottom: 1em;
+    text-decoration: underline;
+}
+
+#formations:hover {
+    background-color: rgb(235, 235, 235);
+}
 
 #experiences{
     border: 1mm ridge rgba(179, 179, 179, 0.6);
@@ -118,7 +132,7 @@ body {
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    height: 38em;
+    height: 49em;
 }
 
 #experiences h3{
@@ -133,14 +147,14 @@ body {
     margin-bottom: 1em;
 }
 
-.sectionX:hover {
-    border-radius: 3% 30% 3% 30%;
-    background-color: rgb(235, 235, 235);
-}
-
-.sectionX h2{
+#experiences h2{
     padding-bottom: 1em;
     text-decoration: underline;
+}
+
+#experiences:hover {
+    border-radius: 3% 30% 3% 30%;
+    background-color: rgb(235, 235, 235);
 }
 
 .footer .hobby:hover {
