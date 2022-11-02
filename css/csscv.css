@@ -64,14 +64,13 @@ body {
 
 #competences{
     border: 1mm ridge rgba(179, 179, 179, 0.6);
-    font-size: 1em;
+    font-size: 1.2em;
     padding-top: 1em;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     text-align: center;
     align-items: center;
-    height: 70em;
+    height: 64em;
 }
 
 #competences article{
@@ -103,7 +102,7 @@ body {
     padding-top: 1em;
     text-align: center;
     width: 31%;
-    height: 60em;
+    height: 59em;
     font-size: 1em;
 }
 
@@ -129,9 +128,10 @@ body {
     padding-top: 1.0em;
     display: flex;
     flex-direction: column;
+    font-size: 1.2em;
     align-items: center;
     text-align: center;
-    height: 70em;
+    height: 64em;
 }
 
 #experiences h3{
