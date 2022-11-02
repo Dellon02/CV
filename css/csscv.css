@@ -71,7 +71,7 @@ body {
     justify-content: space-between;
     text-align: center;
     align-items: center;
-    height: 49em;
+    height: 70em;
 }
 
 #competences article{
@@ -79,7 +79,7 @@ body {
 }
 
 #competences ul li{
-    padding-top: 2em;
+    padding-top: 3em;
 }
 
 #competences ul{
@@ -103,7 +103,7 @@ body {
     padding-top: 1em;
     text-align: center;
     width: 31%;
-    height: 40em;
+    height: 60em;
     font-size: 1em;
 }
 
@@ -132,7 +132,7 @@ body {
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    height: 49em;
+    height: 70em;
 }
 
 #experiences h3{
