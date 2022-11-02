@@ -102,16 +102,19 @@ body {
     padding-top: 1em;
     text-align: center;
     width: 31%;
-    height: 67em;
-    font-size: 1em;
+    height: 56em;
+    font-size: 1.2em;
+    align-items:center;
+    display: flex;
+    flex-direction: column;
 }
 
 #formations h3{
-    margin-top: 3em;
+    margin-top: 2em;
 }
 
 #formations h5{
-    padding-bottom: 4em;
+    padding-bottom: 1em;
 }
 
 #formations h2{
