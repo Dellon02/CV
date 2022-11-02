@@ -79,7 +79,7 @@ body {
 }
 
 #competences ul li{
-    padding-top: 3em;
+    padding-top: 4em;
 }
 
 #competences ul{
@@ -112,7 +112,7 @@ body {
 }
 
 #formations h5{
-    padding-bottom: 1em;
+    padding-bottom: 4em;
 }
 
 #formations h2{
@@ -129,14 +129,13 @@ body {
     padding-top: 1.0em;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     align-items: center;
     text-align: center;
     height: 70em;
 }
 
 #experiences h3{
-    margin-top: 0.25em;
+    margin-top: 5em;
 }
 
 #experiences h4{
