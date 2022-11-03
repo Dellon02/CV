@@ -41,9 +41,7 @@ div.photo{
 }
 
 body {
-    background-color: white;
-    background-image : url(/images/hitech02.jpg);
-    
+    background-color: white;    
 }
 
 .corpsDuCv section {    
@@ -164,7 +162,7 @@ body {
 }
 
 .footer .hobby:hover {
-    background-color: rgb(235, 235, 235);
+    background-color: rgba(75, 107, 175, 0.6);
 }
 
 .footer .hobby h2 {
@@ -193,6 +191,6 @@ body {
     justify-content: space-around;
 }
 .footer{
-    margin-top: -210px;
+    margin-top: -192px;
     font-size: 0.75em;
 }
