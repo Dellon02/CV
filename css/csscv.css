@@ -103,7 +103,7 @@ body {
     padding-top: 1em;
     text-align: center;
     width: 31%;
-    height: 46em;
+    height: 40em;
     font-size: 1.4em;
     align-items:center;
     display: flex;
@@ -167,8 +167,8 @@ body {
 }
 
 .footer .hobby h2 {
-    padding-top: 0.5em;
-    margin-bottom: 0.75em;
+    margin-top: 2em;
+    margin-bottom: 3em;
     text-decoration: underline;
 }
 
@@ -177,7 +177,7 @@ body {
     border: 1mm ridge rgba(75, 107, 175, 0.6);
     background: rgba(245, 245, 245, 0.874);
     width: 31%;
-    height: 6.5em;
+    height: 13em;
     font-size: 1.4em;
     margin: auto;
     flex-direction: column;
@@ -192,6 +192,6 @@ body {
     justify-content: space-around;
 }
 .footer{
-    margin-top: -192px;
+    margin-top: -25em;
     font-size: 0.75em;
 }
