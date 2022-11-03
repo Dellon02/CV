@@ -128,7 +128,7 @@ body {
 
 #experiences{
     border: 1mm ridge rgba(179, 179, 179, 0.6);
-    padding-top: 1.4em;
+    padding-top: 2em;
     display: flex;
     flex-direction:column;
     font-size: 1.2em;
@@ -150,7 +150,7 @@ body {
 }
 
 #experiences h2{
-    padding-bottom: 1em;
+    padding-bottom: 3em;
     text-decoration: underline;
 }
 
