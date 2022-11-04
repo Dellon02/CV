@@ -53,7 +53,7 @@ body {
 }
 
 .corpsDuCv {
-    background-image : url(/images/hitech02.jpg); 
+    background-image : url(../images/hitech02.jpg); 
     display: flex;
     justify-content: space-around;
     font-size: 0.75em;
