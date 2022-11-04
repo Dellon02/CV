@@ -45,7 +45,7 @@ div.photo{
 
 body {
     background-color: white;  
-    background-image : url(../images/hitech02.jpg); 
+    background-image : url(../images/hitech04.jpg); 
     
     
 }
@@ -92,7 +92,7 @@ body {
 }
 
 #competences h2{
-    padding-bottom: 2em;
+    padding-bottom: 1em;
     text-decoration: underline;
 }
 
@@ -127,7 +127,7 @@ body {
 }
 
 #formations h2{
-    margin-bottom: -0.40em;
+    margin-bottom: -0.44em;
     padding-bottom: 4em;
     text-decoration: underline;
 }
