@@ -42,7 +42,7 @@ div.photo{
 
 body {
     /* background-color: white;    */
-    background-image : url(/images/hitech02.jpg); 
+    
 }
 
 .corpsDuCv section {    
@@ -53,6 +53,7 @@ body {
 }
 
 .corpsDuCv {
+    background-image : url(/images/hitech02.jpg); 
     display: flex;
     justify-content: space-around;
     font-size: 0.75em;
