@@ -46,7 +46,7 @@ div.photo{
 
 body {
     background-color: white;  
-    background-image : url(../images/hitech03.jpg);  
+    background-image : url(../images/hitech02.jpg);  
     
 }
 
@@ -99,6 +99,7 @@ body {
 #competences:hover {
     border-radius: 3% 30% 3% 30%;
     background-color: rgba(75, 107, 175, 0.6);
+    color : white;
 }
 
 #formations{
