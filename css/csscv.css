@@ -45,7 +45,7 @@ div.photo{
 
 body {
     background-color: white;  
-    background-image : url(../images/hitech04.jpg); 
+    background-image : url(../images/hitech.jpg); 
     
     
 }
@@ -69,21 +69,23 @@ body {
 
 #competences{
     border: 1mm ridge rgba(179, 179, 179, 0.6);
-    font-size: 1.4em;
+    background-color: rgba(26, 37, 61, 0.6);
+    color : white;
+    font-size: 1.8em;
     padding-top: 1em;
     display: flex;
     flex-direction: column;
     text-align: center;
     align-items:center;
-    height: 52em;
+    height: 46em;
 }
 
 #competences article{
-    margin-top: 2em;
+    margin-top: 1.5em;
 }
 
 #competences ul li{
-    padding-top: 3em;
+    padding-top: 2.4em;
 }
 
 #competences ul{
@@ -99,27 +101,31 @@ body {
 #competences:hover {
     border-radius: 3% 30% 3% 30%;
     background-color: rgba(26, 37, 61, 0.6);
+    background: rgba(245, 245, 245, 0.874);
     color : white;
+    color:black;
 }
 
 #formations{
     background-image : url(../images/cobol2.png);  
     background-repeat: no-repeat; 
-    background-position: center top;
+    background-position: 14em 0.5em;
     border: 1mm ridge rgba(75, 107, 175, 0.6);
     border-radius: 40% 3%;
     padding-top: 1em;
     text-align: center;
     width: 31%;
-    height: 40em;
-    font-size: 1.4em;
+    height: 33em;
+    font-size: 1.8em;
     align-items:center;
     display: flex;
     flex-direction: column;
+    background-color: rgba(26, 37, 61, 0.6);
+    color : white;
 }
 
 #formations h3{
-    margin-top: 0.5em;
+    margin-top: 0.25em;
 }
 
 #formations h5{
@@ -128,16 +134,21 @@ body {
 
 #formations h2{
     margin-bottom: -0.44em;
-    padding-bottom: 4em;
+    padding-bottom: 3em;
     text-decoration: underline;
 }
 
 #formations:hover {
     background-color: rgba(26, 37, 61, 0.6);
+    background: rgba(245, 245, 245, 0.874);
     color : white;
+    color:black;
 }
 
 #experiences{
+    background-color: rgba(26, 37, 61, 0.6);
+    color : white;
+
     border: 1mm ridge rgba(179, 179, 179, 0.6);
     padding-top: 2em;
     display: flex;
@@ -169,12 +180,16 @@ body {
 #experiences:hover {
     border-radius: 3% 30% 3% 30%;
     background-color: rgba(26, 37, 61, 0.6);
+    background: rgba(245, 245, 245, 0.874);
     color : white;
+    color : black;
 }
 
 .footer .hobby:hover {
     background-color: rgba(26, 37, 61, 0.6);
+    background: rgba(245, 245, 245, 0.874);
     color : white;
+    color : black;
 }
 
 .footer .hobby h2 {
@@ -186,9 +201,12 @@ body {
 .footer .hobby{
     border: 1mm ridge rgba(75, 107, 175, 0.6);
     background: rgba(245, 245, 245, 0.874);
+    background-color: rgba(26, 37, 61, 0.6);
+    color : white;
+
     width: 31%;
     height: 10em;
-    font-size: 1.4em;
+    font-size: 1.8em;
     margin: auto;
     flex-direction: column;
     align-items: center;
@@ -202,6 +220,6 @@ body {
     justify-content: space-around;
 }
 .footer{
-    margin-top: -23em;
+    margin-top: -29.5em;
     font-size: 0.75em;
 }
