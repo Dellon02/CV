@@ -205,7 +205,6 @@ body {
     color : black;
 }
 
-
 .footer #option{
     width: 31%;
     height: 10em;
@@ -231,7 +230,6 @@ body {
 .footer #option #Langue2{
     margin-left: 6em;
     margin-top: 1em;
-
 }
 
 .footer #option #Langue21{
@@ -254,9 +252,6 @@ body {
     background: rgba(245, 245, 245, 0.874);
     color : black;
 }
-
-
-
 
 .footer .hobby h2 {
     margin-top: 1em;
