@@ -191,20 +191,18 @@ body {
 }
 
 .footer .hobby{
-    border: 1mm ridge rgba(75, 107, 175, 0.6);
-    background: rgba(245, 245, 245, 0.874);
-    background-color: rgba(26, 37, 61, 0.6);
-    color : white;
-
     width: 31%;
     height: 10em;
-    font-size: 1.8em;
-    margin: auto;
+    font-size: 1.8em;    
     flex-direction: column;
     align-items: center;
     border-radius: 1em; 
+    margin: auto;
     margin-top: 8em;
     text-align: center;
+    border: 1mm ridge rgba(75, 107, 175, 0.6);
+    background-color: rgba(26, 37, 61, 0.6);
+    color : white;
 }
 
 .footer .hobby .activites{
