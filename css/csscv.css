@@ -103,7 +103,7 @@ body {
 }
 
 #competences:hover {
-    border-radius: 3% 30% 3% 30%;
+    border-radius: 3% 20% 3% 20%;
     background: rgba(245, 245, 245, 0.874);
     color:black;
 }
@@ -114,13 +114,39 @@ body {
     padding-top: 1em;
     text-align: center;
     width: 31%;
-    height: 37em;
+    height: 25em;
     font-size: 1.2em;
     align-items:center;
-    border-radius: 40% 3%;
+    border-radius: 35% 3%;
     background-color: rgba(26, 37, 61, 0.6);
     border: 1mm ridge rgba(75, 107, 175, 0.6);
     color : white;
+}
+
+#formations #Langue1{
+    margin-left: -2em;
+    margin-top: 2em;
+    display: flex;
+    flex-direction: row;
+}
+#formations #Langue11{
+    margin-left: 5em;
+    margin-top: -2.5em;
+    display: flex;
+    flex-direction: row;
+}
+#formations #Langue2{
+    margin-left: -2em;
+    margin-top: -2.5em;
+    display: flex;
+    flex-direction: row;
+}
+
+#formations #Langue21{
+    margin-left: 5em;
+    margin-top: -2.5em;
+    display: flex;
+    flex-direction: row;
 }
 
 #formations h3{
@@ -174,17 +200,63 @@ body {
 }
 
 #experiences:hover {
-    border-radius: 3% 30% 3% 30%;
+    border-radius: 3% 20% 3% 20%;
     background: rgba(245, 245, 245, 0.874);
     color : black;
 }
 
-.footer .hobby:hover {
+
+.footer #option{
+    width: 31%;
+    height: 10em;
+    font-size: 1.8em;   
+    border: 1mm ridge rgba(75, 107, 175, 0.6);
     background-color: rgba(26, 37, 61, 0.6);
-    background: rgba(245, 245, 245, 0.874);
     color : white;
+    margin:auto;
+    margin-top: -22.5em;
+    margin-bottom: -6.5em;
+    border-radius: 1em; 
+}
+
+.footer #option:hover{
+    background: rgba(245, 245, 245, 0.874);
     color : black;
 }
+
+.footer #option h2{
+    text-align: center;
+}
+
+.footer #option #Langue2{
+    margin-left: 6em;
+    margin-top: 1em;
+
+}
+
+.footer #option #Langue21{
+    margin-left: 10em;
+    margin-bottom: 1em;
+    margin-top: -2em;
+}
+
+.footer #option #Langue1{
+    margin-left: 6em;
+    margin-top: 1em;
+}
+
+.footer #option #Langue11{
+    margin-left: 10em;
+    margin-top: -2.5em;
+}
+
+.footer .hobby:hover {
+    background: rgba(245, 245, 245, 0.874);
+    color : black;
+}
+
+
+
 
 .footer .hobby h2 {
     margin-top: 1em;
@@ -212,6 +284,8 @@ body {
     justify-content: space-around;
 }
 .footer{
-    margin-top: -33em;
     font-size: 0.50em;
+    
+    display: flex;
+    flex-direction: column;
 }
