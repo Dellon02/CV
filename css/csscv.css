@@ -61,7 +61,7 @@ body {
     font-size: 0.75em;
     background-image : url(../images/cobol2.png);  
     background-repeat: no-repeat; 
-    background-position: center top;
+    background-position: center 0.8em;
     background-size: 10%;
 }
 
