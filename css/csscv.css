@@ -46,8 +46,7 @@ div.photo{
 
 body {
     background-color: white;  
-    background-image : url(../images/hitech.jpg);    
-    
+    background-image : url(../images/fondecran.jpg);
 }
 
 .corpsDuCv section {    
@@ -225,6 +224,8 @@ body {
 }
 
 .footer #option h2{
+    margin-top: 0.5em;
+    margin-bottom: 0em;
     text-align: center;
     text-decoration: underline;
 }
@@ -247,7 +248,7 @@ body {
 
 .footer #option #Langue11{
     margin-left: 10em;
-    margin-top: -2.5em;
+    margin-top: -2em;
 }
 
 .footer .hobby:hover {
