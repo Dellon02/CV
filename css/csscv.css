@@ -45,12 +45,10 @@ div.photo{
 }
 
 body {
-    background-color: white;  
     background-image : url(../images/fondecran.jpg);
 }
 
-.corpsDuCv section {    
-    background: rgba(245, 245, 245, 0.874);
+.corpsDuCv section {
     border-radius: 1em; 
     width: 31%;
     transition-duration: 0.25s;
@@ -76,7 +74,7 @@ body {
     flex-direction: column;
     text-align: center;
     align-items:center;
-    height: 43.3em;
+    height: 48.7em;
     border: 1mm ridge rgba(75, 107, 175, 0.6);
     background-color: rgba(26, 37, 61, 0.6);
     color : white;
@@ -106,12 +104,12 @@ body {
     color:black;
 }
 
-#formations{
+.colonne2 #formations{
     display: flex;
     flex-direction: column;
     padding-top: 1em;
     text-align: center;
-    width: 31%;
+    width: 100%;
     height: 25em;
     font-size: 1.2em;
     align-items:center;
@@ -121,21 +119,21 @@ body {
     color : white;
 }
 
-#formations h3{
+.colonne2 #formations h3{
     margin-top: 0.25em;
 }
 
-#formations h5{
+.colonne2 #formations h5{
     padding-bottom: 1em;
 }
 
-#formations h2{
+.colonne2 #formations h2{
     margin-bottom: -0.44em;
     padding-bottom: 3em;
     text-decoration: underline;
 }
 
-#formations:hover {
+.colonne2 #formations:hover {
     background: rgba(145, 171, 227, 0.874);
 
     color:black;
@@ -147,7 +145,7 @@ body {
     flex-direction:column;
     font-size: 1.2em;
     text-align: center;
-    height: 43.em;
+    height: 47.7em;
     font-size: 1.2em;
     border: 1mm ridge rgba(75, 107, 175, 0.6);
     background-color: rgba(26, 37, 61, 0.6);
@@ -177,69 +175,75 @@ body {
     background: rgba(145, 171, 227, 0.874);
     color : black;
 }
+.colonne2 .divers{
+    width: 100%;
+    margin-top: 2em;
+}
 
-.footer #option{
-    width: 31%;
+.colonne2 .divers #option{
+    width: 100%;
     height: 10em;
-    font-size: 1.8em;   
+    font-size: 1.2em;   
     border: 1mm ridge rgba(75, 107, 175, 0.6);
     background-color: rgba(26, 37, 61, 0.6);
     color : white;
     margin:auto;
-    margin-top: -22.5em;
+    margin-top: 0em;
     margin-bottom: -6.5em;
     border-radius: 1em; 
 }
 
-.footer #option:hover{
+.colonne2 .divers #option:hover{
     background: rgba(145, 171, 227, 0.874);
     color : black;
 }
 
-.footer #option h2{
+.colonne2 .divers #option h2{
     margin-top: 0.5em;
     margin-bottom: 0em;
     text-align: center;
     text-decoration: underline;
 }
 
-.footer #option #Langue2{
+.colonne2 .divers #option #Langue2{
     margin-left: 3em;
     margin-top: 1em;
+    font-size: 1.0em;
 }
 
-.footer #option #Langue21{
-    font-size: 1.2em;    
-    margin-left: 5em;
+.colonne2 .divers #option #Langue21{
+    font-size: .90em;    
+    margin-left: 7em;
     margin-top: -1.7em;
 }
 
-.footer #option #Langue1{
+.colonne2 .divers #option #Langue1{
     margin-left: 3em;
     margin-top: 1em;
+    font-size: 1.0em;
 }
 
-.footer #option #Langue11{
-    font-size: 1.2em;    
-    margin-left: 5em;
-    margin-top: -1.7em;
+.colonne2 .divers #option #Langue11{
+    font-size: 0.90em;    
+    margin-left: 7em;
 }
 
-.footer .hobby:hover {
+.colonne2 .divers .hobby:hover {
     background: rgba(145, 171, 227, 0.874);
     color : black;
 }
 
-.footer .hobby h2 {
+.colonne2 .divers .hobby h2 {
     margin-top: 1em;
     margin-bottom: 2em;
     text-decoration: underline;
+    font-size: 1.5em;
 }
 
-.footer .hobby{
-    width: 31%;
+.colonne2 .divers .hobby{
+    width: 100%;
     height: 10em;
-    font-size: 1.8em;    
+    font-size: 1.2em;    
     flex-direction: column;
     align-items: center;
     border-radius: 1em; 
@@ -251,15 +255,8 @@ body {
     color : white;
 }
 
-.footer .hobby .activites{
-    font-size: 1.2em;    
-
+.colonne2 .divers .hobby .activites{
+    font-size: 0.90em;
     display: flex;
     justify-content: space-around;
-}
-.footer{
-    font-size: 0.50em;
-    
-    display: flex;
-    flex-direction: column;
 }
