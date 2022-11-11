@@ -57,10 +57,12 @@ body {
 .corpsDuCv {
     display: flex;
     justify-content: space-around;
+    
     background-image : url(../images/cobol2.png);  
     background-repeat: no-repeat; 
-    background-position: center 0.5em;
-    background-size: 10%;
+    background-position: center top;
+    background-size: 20%;
+    
 }
 
 .corpsDuCv .icons{
@@ -135,7 +137,6 @@ body {
 
 .colonne2 #formations:hover {
     background: rgba(145, 171, 227, 0.874);
-
     color:black;
 }
 
@@ -203,26 +204,26 @@ body {
 }
 
 .colonne2 .divers #option #Langue2{
-    margin-left: 7em;
+    margin-left: 3em;
     margin-top: 1em;
     font-size: 1.0em;
 }
 
 .colonne2 .divers #option #Langue21{
     font-size: .90em;    
-    margin-left: 10em;
+    margin-left: 6em;
     margin-top: -1.7em;
 }
 
 .colonne2 .divers #option #Langue1{
-    margin-left: 20.5em;
+    margin-left: 16.5em;
     margin-top: -1.5em;
     font-size: 1.0em;
 }
 
 .colonne2 .divers #option #Langue11{
     font-size: 0.90em;    
-    margin-left: 25em;
+    margin-left: 21em;
     margin-top: -1.7em;
 }
 
